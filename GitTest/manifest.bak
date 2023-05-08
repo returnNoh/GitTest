@@ -8,11 +8,7 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <null name="requires"/>
-<<<<<<< HEAD
-  <null name="listACL"/>
-=======
   <value name="listACL">Anonymous</value>
->>>>>>> branch 'master' of https://github.com/returnNoh/coinAPI
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
 </Values>
